@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 <h2>블로그</h2>
-  <img src="https://velog-readme-stats.vercel.app/api/badge?name=aacara">
+  <img src="https://velog-readme-stats.vercel.app/api/badge?name=aacara&link=https://velog.io/@aacara/series">
   
   <img src="https://velog-readme-stats.vercel.app/api?name=aacara">
 </div>
